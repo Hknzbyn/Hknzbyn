@@ -7,7 +7,7 @@
 <p align="left">
  
 - 🌱 &nbsp;I’m currently learning: Javascript / React Native / Redux
-- 📫 &nbsp;How to reach me: **hakanozbeyen@gmail.com**   or  <a href="https://www.linkedin.com/in/hakanozbeyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakanozbeyen/" height="15" width="15" /></a> </a>
+- 📫 &nbsp;How to reach me:  <a href="https://www.linkedin.com/in/hakanozbeyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakanozbeyen/" height="15" width="15" /></a> 
 - ⚡ &nbsp;Fun fact: 🎹 🐈 ♟️ 🎥 
 </p>
 
@@ -18,8 +18,8 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='adobeillustrator' height='30'>  </a>
 <a href="https://www.notion.so/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='30'> </a>
-<a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
-<a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
+<a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="35" height="30"/> </a> 
+<a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="35"/> </a>
 </p>
 
 📊 &nbsp;**This week I spent my time on**
