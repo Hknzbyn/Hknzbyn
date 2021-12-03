@@ -1,8 +1,16 @@
 <h1 align="center">  Hi, I'm Hakan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 <h3 align="center">React Native Frontend Developer from Turkey</h3>
+ 
+ <h3 align="center">
+
+ <details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 
 - 🌱 I’m currently learning **React Native, javascript,Redux**
 - 📫 How to reach me **hakanozbeyen@gmail.com**
+  <br/>
+  </details>
+  </h3>
 
 <div align="center"><img src="https://media.giphy.com/media/1ZDHBI83x55sdxsejk/giphy-downsized-large.gif" width="400" height="400"  /> </div>
 
@@ -31,9 +39,7 @@
 📊 &nbsp;**This week I spent my time on**
 
 [![wakatime](https://wakatime.com/badge/user/d0eb5534-9458-4b69-93e4-d6e576b8982b.svg)](https://wakatime.com/@d0eb5534-9458-4b69-93e4-d6e576b8982b)
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hknzbyn&layout=compact)](https://github.com/hknzbyn/github-readme-stats)
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hknzbyn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hknzbyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
