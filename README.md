@@ -1,22 +1,14 @@
-<h1 align="center">  Hi, I'm Hakan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
-<h3 align="center">React Native Frontend Developer from Turkey</h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">Hi, I'm Hakan</h1>
+<h3 align="center">Frontend Developer from Turkey</h3>
  
- <h3 align="center">
-
- <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-
-- 🌱 I’m currently learning **React Native, javascript,Redux**
-- 📫 How to reach me **hakanozbeyen@gmail.com**
-  <br/>
-  </details>
-  </h3>
-
 <div align="center"><img src="https://media.giphy.com/media/1ZDHBI83x55sdxsejk/giphy-downsized-large.gif" width="400" height="400"  /> </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hakanozbeyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakanozbeyen/" height="30" width="40" /></a>
+ 
+- 🌱 &nbsp;I’m currently learning Javascript/React Native/Redux
+- 📫 &nbsp;How to reach me: **hakanozbeyen@gmail.com**   or  <a href="https://www.linkedin.com/in/hakanozbeyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakanozbeyen/" height="15" width="15" /></a> </a>
+- ⚡ &nbsp;Fun fact: 🎹 🐈 ♟️ 🎥 
 </p>
 
 <h3 align="left">Technologies & Tools</h3>
@@ -33,8 +25,3 @@
 📊 &nbsp;**This week I spent my time on**
 
 [![wakatime](https://wakatime.com/badge/user/d0eb5534-9458-4b69-93e4-d6e576b8982b.svg)](https://wakatime.com/@d0eb5534-9458-4b69-93e4-d6e576b8982b)
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hknzbyn)  
-
-![Profile views](https://gpvc.arturio.dev/hknzbyn)  
