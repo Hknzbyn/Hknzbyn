@@ -6,7 +6,7 @@
 <h3 align="left">About me:</h3>
 <p align="left">
  
-- 🌱 &nbsp;I’m currently learning Javascript / React Native / Redux
+- 🌱 &nbsp;I’m currently learning: Javascript / React Native / Redux
 - 📫 &nbsp;How to reach me: **hakanozbeyen@gmail.com**   or  <a href="https://www.linkedin.com/in/hakanozbeyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakanozbeyen/" height="15" width="15" /></a> </a>
 - ⚡ &nbsp;Fun fact: 🎹 🐈 ♟️ 🎥 
 </p>
