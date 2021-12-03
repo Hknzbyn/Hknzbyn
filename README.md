@@ -16,22 +16,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hakanozbeyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakanozbeyen/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12544106" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
-<a href="https://www.instagram.com/hknzbyn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="cengizcmataraci" height="30" width="30" /></a>
-
-
+<a href="https://www.linkedin.com/in/hakanozbeyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakanozbeyen/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Technologies:</h3>
+<h3 align="left">Technologies & Tools</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
-
-<h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
+<a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
+ <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg" alt="adobeillustrator" width="30" height="30"/> </a>
+ 
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 
 </p>
@@ -39,7 +36,15 @@
 📊 &nbsp;**This week I spent my time on**
 
 [![wakatime](https://wakatime.com/badge/user/d0eb5534-9458-4b69-93e4-d6e576b8982b.svg)](https://wakatime.com/@d0eb5534-9458-4b69-93e4-d6e576b8982b)
-  
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hknzbyn)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hknzbyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hknzbyn)](https://github.com/anuraghazra/github-readme-stats)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hknzbyn)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hakanozbeyen/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://www.notion.so/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='adobeillustrator' height='40'>]()  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hknzbyn)  
+
+![GitHub metrics](https://metrics.lecoq.io/hknzbyn)  
+
+![Profile views](https://gpvc.arturio.dev/hknzbyn)  
