@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">Hi, I'm Hakan</h1>
-<h3 align="center">Frontend Developer from Turkey</h3>
+<h3 align="center">React Native Developer </h3>
  
 <div align="center"><img src="https://media.giphy.com/media/1ZDHBI83x55sdxsejk/giphy-downsized-large.gif" width="400" height="400"  /> </div>
 
